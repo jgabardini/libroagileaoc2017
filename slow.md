@@ -154,9 +154,9 @@
 
     Probablemente, en algunos casos se requieren soluciones a corto plazo, donde conviene balancear este derecho con las necesidades urgentes, pero creo que es necesaria la reflexión al respecto, para entender cómo trascender este corto plazo hacia beneficios sostenibles en el tiempo. 
 
-    En esencia, el cambio más profundo y más beneficioso para el equipo ágil es dejarlo encontrar su propio camino, probablemente a través de múltiples pruebas y errores[ˆ11].
+    En esencia, el cambio más profundo y más beneficioso para el equipo ágil es dejarlo encontrar su propio camino, probablemente a través de múltiples pruebas y errores[^11].
 
-    [ˆ11]: En su capítulo "El Coach como un impedimento", Rox Muñoz nos comenta de la importancia de enseñar al equipo ágil a encontrar su propio camino.
+    [^11]: En su capítulo "El Coach como un impedimento", Rox Muñoz nos comenta de la importancia de enseñar al equipo ágil a encontrar su propio camino.
 
     ## El camino personal Slow
 
