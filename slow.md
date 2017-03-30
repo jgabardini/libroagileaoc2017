@@ -30,9 +30,9 @@ Tom De Marco, desde su larga y reconocida trayectoria, afirma: *"Las mejores emp
 
 ## Del fast food al movimiento Slow
 
-En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza histórica de Roma. Así nace **el movimiento *Slow Food*[^2],** que crece rápidamente, primero en Italia y luego en toda Europa, velando por un placer gastronómico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
+En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza histórica de Roma. Así nace **el movimiento *Slow Food***[^2], que crece rápidamente, primero en Italia y luego en toda Europa, velando por un placer gastronómico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
 
-[^2] Slow Food [http://www.slowfood.com/](http://www.slowfood.com/)
+[^2]: Slow Food [http://www.slowfood.com/](http://www.slowfood.com/)
 
 Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educación (*Slow School*)[^3], la urbanización (*Slow City*)[^4], el deporte, la medicina, el sexo, la moda, el diseño, la televisión y el turismo, entre otros. 
 
@@ -108,7 +108,7 @@ Suelo ver en los pedidos a los equipos ágiles una gran contradicción entre, po
 
 Es por esta contradicción que necesitamos luchar por el primero de los derechos Slow del equipo ágil:
 
-**Derecho Slow #1****: El equipo ágil trabaja con calidad**
+**Derecho Slow #1**: **El equipo ágil trabaja con calidad**
 
 Este derecho obliga a darse tiempo para hacer bien las distintas tareas necesarias, y más que todo: tiempo para aprender a hacer bien las cosas. 
 
@@ -136,7 +136,7 @@ El equipo requiere conectarse genuinamente con las verdaderas necesidades del ne
 
 No podemos seguir de esta forma. Tenemos que luchar por el segundo de los derechos Slow del equipo ágil:
 
-**Derecho Slow #2****: El ****equipo ágil consolida conexiones reales con el negocio**
+**Derecho Slow #2**: **El equipo ágil consolida conexiones reales con el negocio**
 
 Es clave darse el tiempo de generar un entendimiento genuino del negocio, de sus particularidades y sus necesidades, a través de relaciones directas con usuarios o clientes de los productos a generar.  
 
@@ -150,7 +150,7 @@ Muchas veces se pierde la posibilidad de ampliar la visión del trabajo de un eq
 
 Luchemos contra la lógica cortoplacista de optimización de los equipos con el tercero de los derechos Slow del equipo ágil:
 
-**Derecho Slow #3**: El equipo ágil construye su propio camino de crecimiento.
+**Derecho Slow #3**: **El equipo ágil construye su propio camino de crecimiento.**
 
 Este camino involucra, por lo menos, ir construyendo mecanismos sostenibles a niveles metodológico (darse los medios de poder trabajar bien en el tiempo) y técnico (darse los medios de construir soluciones que puedan seguir válidas técnicamente en el tiempo).
 
@@ -174,7 +174,7 @@ También una reflexión personal Slow ayuda a poder discernir mejor eventuales p
 
 Para fomentar estas reflexiones personales Slow, luchemos por el cuarto y último de los derechos Slow del equipo ágil:
 
-**Derecho Slow #4****: El equipo ágil ayuda a sus miembros en sus propios caminos Slow **
+**Derecho Slow #4**: **El equipo ágil ayuda a sus miembros en sus propios caminos Slow**
 
 Tener este cuidado entre todos genera una motivación, una conciencia y un cuidado personal que, en mi experiencia, es muy beneficioso para cada individuo y para el equipo mismo.
 
