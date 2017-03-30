@@ -26,19 +26,23 @@
 
     Tom De Marco, desde su larga y reconocida trayectoria, afirma: *"Las mejores empresas que visité, durante todos estos años, nunca estaban muy apuradas" .* [^1]
 
-    [^1]: Why time management is ruining our lives.
+    [^1]: Why time management is ruining our lives [http://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives](http://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives).
 
     ## Del fast food al movimiento Slow
 
-    En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza histórica de Roma. Así nace **el movimiento *Slow Food*,** que crece rápidamente, primero en Italia y luego en toda Europa, velando por un placer gastronómico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
+    En 1986, Carlo Petrini genera una marcha en contra de la apertura de un *fast food* en una plaza histórica de Roma. Así nace **el movimiento *Slow Food*[^2],** que crece rápidamente, primero en Italia y luego en toda Europa, velando por un placer gastronómico lento, sin descuidar el medio-ambiente, los productores ni las tradiciones locales. 
 
-    Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educación (*Slow School*)[^2], la urbanización (*Slow City*), el deporte, la medicina, el sexo, la moda, el diseño, la televisión y el turismo, entre otros. 
+    [^2] Slow Food [http://www.slowfood.com/](http://www.slowfood.com/)
 
-    [^2]: Ver por ejemplo Elogio de la Educación Lenta y La Pedagogía del Caracol
+    Lentamente, esta inquietud gana otros aspectos de la vida, y se extrapola el movimiento Slow a la educación (*Slow School*)[^3], la urbanización (*Slow City*)[^4], el deporte, la medicina, el sexo, la moda, el diseño, la televisión y el turismo, entre otros. 
 
-    Hoy, algunos de estos movimientos tienen un alcance y un desarrollo mundial de alto impacto[^3], 100.000 miembros del movimiento Slow Food, con sus 2.000 comunidades Terra Madre, o sus 1.500 comunidades Convivia en todo el mundo (Slow Food).), mientras nacen continuamente nuevas propuestas Slow en distintos dominios. 
+    [^3]: Ver por ejemplo Elogio de la Educación Lenta de Joan Domènech Francesch y La Pedagogía del Caracol de Gianfranco Zavalloni, Francesc Massana Cabré 
 
-    [^3]: Por ejemplo, en marzo del 2017 se referencian 230 ciudades lentas en 30 países (Slow City).
+    [^4]: Slow City (http://www.cittaslow.org/)
+
+    Hoy, algunos de estos movimientos tienen un alcance y un desarrollo mundial de alto impacto[^5], mientras nacen continuamente nuevas propuestas Slow en distintos dominios. 
+
+    [^5]: Por ejemplo, en marzo del 2017 se referencian 230 ciudades lentas en 30 países (*Slow City*), 100.000 miembros del movimiento *Slow Food*, con sus 2.000 comunidades *Terra Madre*, o sus 1.500 comunidades *Convivia* en todo el mundo (*Slow Food*).
 
     Como punto de conexión entre todos estos movimientos, la filosofía Slow invita a reflexionar sobre alternativas a la preocupación cada vez más generalizada por la hiperestimulación y presión por la velocidad que sufrimos todos cada día.  
 
@@ -46,9 +50,9 @@
 
     El movimiento Slow busca generar una toma de conciencia para cada individuo, pero que puede extenderse a un equipo de trabajo o a toda una organización o conjunto social. Su intención es revelar la posibilidad de llevar una vida más plena y desacelerada, haciendo que cada individuo pueda controlar y adueñarse de su propio ritmo vital.
 
-    Como define Carl Honoré[^4]: *"Ser Slow quiere decir controlar los ritmos de su propia vida. Usted decide qué tan rápido tiene que andar en cada contexto. Si hoy quiero andar rápido, voy rápido. Si mañana quiero ir despacio, voy despacio. Estamos peleando por nuestro derecho a determinar nuestros propios ritmos".*
+    Como define Carl Honoré[^6]: *"Ser Slow quiere decir controlar los ritmos de su propia vida. Usted decide qué tan rápido tiene que andar en cada contexto. Si hoy quiero andar rápido, voy rápido. Si mañana quiero ir despacio, voy despacio. Estamos peleando por nuestro derecho a determinar nuestros propios ritmos".*
 
-    [^4]: Elogio de la Lentitud
+    [^6]: Elogio de la Lentitud de Carl Honore, Jordi Fibla Feito.
 
     Esta toma de conciencia suele contradecir lo que nos pide la sociedad, la tecnología y los distintos ecosistemas en los cuales nos desempeñamos. Empresas, ciudades y escuelas son algunos ejemplos típicos que nos llevan a nosotros y a nuestros hijos a un único ritmo frenético contra reloj. 
 
@@ -72,11 +76,11 @@
 
     Bajar el ritmo cuando corresponde, o invertir en momentos lentos frecuentemente es una forma de prepararse para los momentos donde necesitamos mayor velocidad, productividad o eficiencia. 
 
-    Actividades diarias cortas[^5] de meditación, deportes, respiración, relax, disfrute o momentos de no hacer nada, tienen un efecto directo sobre nuestra productividad, foco, bienestar, capacidad de concentración, innovación y creatividad[^6]. 
+    Actividades diarias cortas[^7] de meditación, deportes, respiración, relax, disfrute o momentos de no hacer nada, tienen un efecto directo sobre nuestra productividad, foco, bienestar, capacidad de concentración, innovación y creatividad[^8]. 
 
-    [^5]: Por ejemplo, 6 técnicas para un día slow
+    [^7]: Por ejemplo, 6 técnicas para un día slow [http://www.elproximopaso.net/2016/03/6-tecnicas-para-un-dia-slow.html](http://www.elproximopaso.net/2016/03/6-tecnicas-para-un-dia-slow.html)
 
-    [^6]: Ver por ejemplo Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study y Exploring the therapeutic effects of yoga and its ability to increase quality of life.
+    [^8]: Ver por ejemplo [Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study](http://www.thepermanentejournal.org/issues/2014/winter/43-the-permanente-journal/original-research-and-contributions/5591-transcendental-meditation.html) y [Exploring the therapeutic effects of yoga and its ability to increase quality of life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3193654/).
 
     Pero lo más importante de estos momentos Slow, es nuestra capacidad de introducir un cambio consciente de ritmo, lo cual nos permite escapar durante un rato de la presión de la velocidad a la cual nos vemos expuestos continuamente. 
 
@@ -108,11 +112,11 @@
 
     Este derecho obliga a darse tiempo para hacer bien las distintas tareas necesarias, y más que todo: tiempo para aprender a hacer bien las cosas. 
 
-    Entre otras cosas, podemos mencionar las necesidades de (auto) capacitación, de aprender de sus errores, de leer, de practicar, de consolidar buenas prácticas técnicas[^7], de ser y/o tener mentor, de explorar herramientas, de compartir prácticas con otros, como se puede ver por ejemplo en la iniciativa *software *craftsmanship*[^8].
+    Entre otras cosas, podemos mencionar las necesidades de (auto) capacitación, de aprender de sus errores, de leer, de practicar, de consolidar buenas prácticas técnicas[^9], de ser y/o tener mentor, de explorar herramientas, de compartir prácticas con otros, como se puede ver por ejemplo en la iniciativa *software *craftsmanship*[^10].
 
-    [^7]: En su capítulo "(Fr)agilidad", Nicolás Paez ilustra las debilidades del Scrum flácido, por sus carencias en cuestiones técnicas.
+    [^9]: En su capítulo "(Fr)agilidad", Nicolás Paez ilustra las debilidades del Scrum flácido, por sus carencias en cuestiones técnicas.
 
-    [^8]: *Manifesto for Software Craftsmanship*
+    [^10]: *Manifesto for Software Craftsmanship* [http://manifesto.softwarecraftsmanship.org/](http://manifesto.softwarecraftsmanship.org/)
 
     Es una gran inversión que seguramente necesitará cierto equilibrio, pero cuyos beneficios son, a mi gusto, cruciales. Pude constatar que hacer las cosas bien, y con placer, es una gran motivación en múltiples equipos ágiles.
 
@@ -120,13 +124,13 @@
 
     Una conexión muchas veces bastardeada u olvidada en los equipos ágiles es la conexión con el negocio. 
 
-    El sintoma tipico de una conexión defectuosa con el negocio es un equipo sobrepasado resolviendo una montaña de tickets o pedidos de micro-cambios generados por supuestos representantes del negocio, analistas de negocio o usuarios claves desconectados de la realidad[^9].
+    El sintoma tipico de una conexión defectuosa con el negocio es un equipo sobrepasado resolviendo una montaña de tickets o pedidos de micro-cambios generados por supuestos representantes del negocio, analistas de negocio o usuarios claves desconectados de la realidad[^12].
 
-    [^9]: En su capítulo "F\*\*\* the manifesto", Juan Gabardini pregunta por el verdadero valor para el negocio.
+    [^12]: En su capítulo "F\*\*\* the manifesto", Juan Gabardini pregunta por el verdadero valor para el negocio.
 
-    En los últimos años, se vio una gran movida en las comunidades ágiles hacia prácticas y técnicas para lograr mayor conexión con las necesidades del negocio[^10].
+    En los últimos años, se vio una gran movida en las comunidades ágiles hacia prácticas y técnicas para lograr mayor conexión con las necesidades del negocio[^12].
 
-    [^10]: Por ejemplo: Impact Mapping, The Agile Inception Deck, The Product Canvas, y User Story Mapping. 
+    [^12]: Por ejemplo: [Impact Mapping](https://www.impactmapping.org), [The Agile Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/), [The Product Canvas](http://www.romanpichler.com/blog/the-product-canvas/), y User Story Mapping de Jeff Patton.
 
     El equipo requiere conectarse genuinamente con las verdaderas necesidades del negocio, y no por un teléfono descompuesto a través de múltiples indirecciones dudosas. 
 
@@ -154,9 +158,9 @@
 
     Probablemente, en algunos casos se requieren soluciones a corto plazo, donde conviene balancear este derecho con las necesidades urgentes, pero creo que es necesaria la reflexión al respecto, para entender cómo trascender este corto plazo hacia beneficios sostenibles en el tiempo. 
 
-    En esencia, el cambio más profundo y más beneficioso para el equipo ágil es dejarlo encontrar su propio camino, probablemente a través de múltiples pruebas y errores[^11].
+    En esencia, el cambio más profundo y más beneficioso para el equipo ágil es dejarlo encontrar su propio camino, probablemente a través de múltiples pruebas y errores[^12].
 
-    [^11]: En su capítulo "El Coach como un impedimento", Rox Muñoz nos comenta de la importancia de enseñar al equipo ágil a encontrar su propio camino.
+    [^12]: En su capítulo "El Coach como un impedimento", Rox Muñoz nos comenta de la importancia de enseñar al equipo ágil a encontrar su propio camino.
 
     ## El camino personal Slow
 
@@ -176,9 +180,7 @@
 
     ## Luchemos por nuestros derechos Slow 
 
-    Como bien lo dice Carl Honoré: *"En la guerra contra el culto de la velocidad, el frente de batalla está en nuestra mente"*[^12]
-
-    [^12]: Elogio de la Lentitud.
+    Como bien lo dice Carl Honoré: *"En la guerra contra el culto de la velocidad, el frente de batalla está en nuestra mente"*[^4]
 
     ¡La revolución Slow está en nosotros!
 
@@ -196,4 +198,4 @@
 
     Compañeras y compañeros ágiles, la revolución Slow está en marcha.
 
-    [^13]: The calm company
+    [^13]: [The calm company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457), libro de próxima publicación
